@@ -1,0 +1,10 @@
+@media screen and (min-width: 624px) {
+	div.art_branch_01 a {
+		font-size: 23px;
+		font-weight: bold;
+		line-height: 21px;
+		padding: 6px 0 6px 0px;
+		border-bottom: 1px solid #ccc;
+		margin: 0 0 14px 0;
+	}
+}
