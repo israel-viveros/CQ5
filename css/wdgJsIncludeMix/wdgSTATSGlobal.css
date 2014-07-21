@@ -7718,7 +7718,7 @@
         border: none;
     }
     .btn_6prog_06 div.title h2 {
-        height: 40px;
+        height: 32px;
         background-color: #666;
     }
     .btn_6prog_06 .type1a .title h2 a {
@@ -7734,7 +7734,6 @@
         -moz-background-size: 12px 20px;
         -o-background-size: 12px 12px;
         background-size: 12px 20px;
-		margin-top: 0px;
     }
     .btn_6prog_06 .bullets{
         display: block;
