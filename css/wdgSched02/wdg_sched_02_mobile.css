@@ -1,7 +1,7 @@
 @media screen{
     .wdg_sched_02{
-    	margin-bottom: 0px;
-    	height: 100%;
+        margin-bottom: 0px;
+        height: 100%;
         position: relative;
         width: 100%;
         overflow: hidden;
@@ -9,12 +9,12 @@
 
     .wdg_sched_02 > ul {
         height: 197px;
-		display: block;
-		overflow: auto;
-		position: relative;
-		width: 110%;
-		overflow-x: hidden;
-		border-top: 1px solid #ccc;
+        display: block;
+        overflow: auto;
+        position: relative;
+        width: 110%;
+        overflow-x: hidden;
+        border-top: 1px solid #ccc;
     }
 
     .wdg_sched_02 > ul li {
@@ -57,7 +57,7 @@
         text-align: center;
         width: auto;
         font-size: 16px !important;
-		
+        
     }
 
     .wdg_sched_02 > ul li div:first-child span.active {
@@ -75,8 +75,8 @@
         font-size: 12px !important;
         margin: 1px -3px 0 0 !important;
         text-align: right;
-		padding-left: 5px;
-		color:#DEB476;
+        padding-left: 5px;
+        color:#DEB476;
     }
 
     .wdg_sched_02 ul li div:first-child time, 
@@ -150,8 +150,8 @@
 
     .wdg_sched_02 .nav {
         position: relative;
-		border-top:1px solid #CCC;
-		display:none;
+        border-top:1px solid #CCC;
+        display:none;
     }
 
     .wdg_sched_02 a.next {
@@ -202,9 +202,9 @@
     .wdg_sched_02 > div .tvsa-caret-down{
         margin: 2px 0 0 10px;
     }
-	.wdg_sched_02 .degraded{
-		bottom:61px;
-	}
+    .wdg_sched_02 .degraded{
+        bottom:61px;
+    }
     .wdg_sched_02 .seemore{
         font-size: 12px;
         font-style: normal;
@@ -229,22 +229,22 @@
         color: #8f8f8f;
         display: block;
     }
-	
-	.wdg_sched_02 .nav .bgactive{
-		background-color:#A70A0B;
-	}
-	
-	.wdg_sched_02 .nav .bginactive{
-		background-color:#BF6163;
-	}
-	
-	.wdg_sched_02 .nav .bgactive span{
-		color:#FFF;
-	}
-	
-	.wdg_sched_02 .nav .bginactive span{
-		color:#DBA5A5;
-	}
+    
+    .wdg_sched_02 .nav .bgactive{
+        background-color:#A70A0B;
+    }
+    
+    .wdg_sched_02 .nav .bginactive{
+        background-color:#BF6163;
+    }
+    
+    .wdg_sched_02 .nav .bgactive span{
+        color:#FFF;
+    }
+    
+    .wdg_sched_02 .nav .bginactive span{
+        color:#DBA5A5;
+    }
     .wdg_sched_02 .separator{
         float: left;
         height: 29px;
@@ -254,54 +254,53 @@
         margin-top: 11px;
     }
 
-	/*	17 julio*/
+    /*  17 julio*/
 
 
-	/* agenda en MOBILE */
+    /* agenda en MOBILE */
 
 .wdg_sched_02 > ul li a {
-	display: block;
-	height: auto;
-	margin-left: 83px;
-	padding: 0;
-	transition: all 0.2s ease-out 0s;
+    display: block;
+    height: auto;
+    margin-left: 83px;
+    padding: 0;
+    transition: all 0.2s ease-out 0s;
 }
 
 .wdg_sched_02 > ul li a .program {
-	color: #000000;
-	display: block;
-	font-size: 12px;
-	font-weight: bold;
-	height: auto;
-	max-height: 44px;
-	overflow: hidden;
-	position: relative;
-	padding-left: 18px;
-	left: 0;
-	top: 0;
-	line-height: 14px;
+    color: #000000;
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    height: auto;
+    max-height: 44px;
+    overflow: hidden;
+    position: relative;
+    padding-left: 18px;
+    left: 0;
+    top: 0;
+    line-height: 14px;
 }
 
 .wdg_sched_02 > ul li.color a .channel {
-	font-style: italic;
-	padding-left: 18px;
-	position: relative;
-	height: auto;
-	left: 0;
-	top: 0;
+    font-style: italic;
+    padding-left: 18px;
+    position: relative;
+    height: auto;
+    left: 0;
+    top: 0;
 }
 
-	.wdg_sched_02 > ul li a span {
-		/*left: 104px;
-		position: relative;*/
-	}
+    .wdg_sched_02 > ul li a span {
+        /*left: 104px;
+        position: relative;*/
+    }
 
-	.wdg_sched_02 > ul li.color a{
-		padding: 8px 10px;
-		padding-left: 0;
-		height: 59px;
-		width: 207px;
-	}
+    .wdg_sched_02 > ul li.color a{
+        padding-left: 0;
+        height: 26px;
+        width: 207px;
+    }
 
     .wdg_sched_02 .separator {
         float: left;
@@ -311,23 +310,23 @@
         margin-left: 83px;
         margin-top: 11px;
         /* display: none; */
-        height: 52px !important;
+        height: 29px !important;
         margin-left: 82px !important;
     }
 
 
 .wdg_sched_02 > ul li {
-	border-bottom: 1px solid #D1D1D1;
-	display: block;
-	position: relative;
-}	
+    border-bottom: 1px solid #D1D1D1;
+    display: block;
+    position: relative;
+}   
 
 
-	.wdg_sched_02 > ul li div:first-child {
-		left: 0;
-		position: absolute;
-		top: 12%;
-		width: 83px;
-	}
+    .wdg_sched_02 > ul li div:first-child {
+        left: 0;
+        position: absolute;
+        top: 12%;
+        width: 83px;
+    }
 
 }
