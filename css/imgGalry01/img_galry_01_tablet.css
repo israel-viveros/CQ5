@@ -172,6 +172,7 @@ color: #8f8f8e;
    div.img_galry_01 .carrusel2 {
        position:relative;
        margin:24px 0;
+       height: 194px;
    }
    div.img_galry_01 .carrusel2 .arrowLeft,
    div.img_galry_01 .carrusel2 .arrowRight {
