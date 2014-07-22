@@ -1,0 +1,21 @@
+@media screen and (min-width: 948px) {
+	/* BEGIN: Global (Large) */
+	.wdg_top03_01 {
+		margin-bottom: 28px;
+		display: block;
+		min-height: 305px;
+	}
+	.wdg_top03_01 .wdg_top03_01_title {
+		width: 300px;
+	}
+	.wdg_top03_01 .bullets{
+    	display: none;
+    }
+	.wdg_top03_01 .wdg_top03_01_title ul {
+		display: block;
+	}
+	.wdg_top03_01 .microfiche-bullets{
+		display: none;
+	}
+	/* END: Global (Large) */
+}
