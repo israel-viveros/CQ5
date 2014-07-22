@@ -1,0 +1,105 @@
+@media screen { 
+	.mix_1arts_03 .type2b .floatRight a:hover{
+		text-decoration: underline!important;
+	}
+    .mix_1arts_03,
+    .ie8 .mix_1arts_03,
+    .ie7 .mix_1arts_03 {
+        width: 100%;
+        margin-bottom:10px;
+        overflow: hidden;
+    }
+    .mix_1arts_03 .resize{
+        float: left;
+        width: 100%;
+        overflow: hidden;
+    }
+    .mix_1arts_03 .type2b img,
+    .ie8 .mix_1arts_03 .type2b img,
+    .ie7 .mix_1arts_03 .type2b img {
+        height: auto;
+        width: 100%;
+    }
+    /*Se ocultan texto y bullets*/
+    .ie8 .mix_1arts_03 .type2b ul,
+    .ie8 .mix_1arts_03 .type2b p,
+
+    .mix_1arts_03 .type2b ul,
+    .mix_1arts_03 .type2b p {
+        display: none;
+    }
+
+    /*Marco Blanco*/
+    .ie7 .mix_1arts_03 .type2b .floatRight,
+    .ie8 .mix_1arts_03 .type2b .floatRight,
+    .mix_1arts_03 .type2b .floatRight{
+        background-color: #FFF;
+        width: 85%;
+        position: relative;
+        margin-top: -30px;
+        float: left;
+        padding: 24px 30px;
+        height: auto;
+        margin-left: 24px;
+    }
+
+    .mix_1arts_03 .type2b .floatRight h3 {
+        margin: 6px 0 12px 0;
+        line-height: 20px;
+        font-size: 18px;
+        height: 60px;
+        overflow: hidden;
+    }
+
+    .mix_1arts_03 .type2b .floatRight p.desc {
+        font-size: 14px;
+		line-height: 18px;
+		text-decoration: inherit;
+    }
+
+    .mix_1arts_03 .sprite{
+        display: none;
+    }
+    /* Category */
+     
+    .mix_1arts_03 .floatRight a.category {
+		font-size: 14px;
+		font-style: italic;
+		font-weight: bold;
+		color: #D9A961;
+		line-height: 20px;
+		cursor: default;
+   }
+}
+
+@media screen and (max-width: 623px){
+
+    .mix_1arts_09_thumb li a h3 {
+            font-size: 14px;
+            font-weight: normal;
+            padding-left: 0;
+            width: 85%;
+            font-weight: bold;
+            height: auto;
+            max-height: 38px;
+        }
+	.mix_1arts_09 .mix_1arts_09_thumb li a strong.category, .mix_1arts_09 .mix_1arts_09_thumb li a span.category {
+        display: block;
+        font-style: italic;
+        font-size: 12px;
+        line-height: 24px;
+        color: #D6A256;
+        padding: 10px 0 0 0px;
+        font-weight: bold;
+        height: 20px;
+        cursor: default;
+	}
+    .mix_1arts_09 {
+        background-color: transparent;
+        margin: 0;
+        padding: 19px 12px 20px 24px;
+        border-top: 1px solid #CCC;
+    }
+
+
+} 
