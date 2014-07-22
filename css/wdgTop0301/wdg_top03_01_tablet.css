@@ -7,7 +7,7 @@ unused styles
 /* BEGIN: Global (Medium) */
     .wdg_top03_01{
         margin-bottom: 28px;
-		width:300px;
+        width:300px;
     }
     .wdg_top03_01 .wdg_carousa {
         overflow: hidden;
@@ -30,15 +30,15 @@ unused styles
     .wdg_top03_01 .wdg_carousa div.wdg_top03_01_title ul li a {
         display: block;
     }
-	.wdg_top03_01 .wdg_top03_01_title em{
-		width:165px;
-	}
+    .wdg_top03_01 .wdg_top03_01_title em{
+        width:165px;
+    }
     .wdg_top03_01 .wdg_carousa ul {
         margin: 25px 0 auto;
     }
     .wdg_top03_01 .wdg_carousa div:last-child ul {
-		margin-top: 0;
-		overflow: hidden;
+        margin-top: 0;
+        overflow: hidden;
     }
     .wdg_top03_01 .wdg_carousa div:last-child ul li div a img{
         padding: 0 12px 0 0px;
