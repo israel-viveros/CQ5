@@ -6,6 +6,7 @@
         font-size: 18px;
         font-weight:bold;
         color: #A41D21;
+
     }
 }
 
@@ -13,5 +14,9 @@
 @media screen and (max-width: 623px) {
     div.art_branch_01 a {
         margin:6px 0 18px 0;
+        border-bottom: 1px solid #ccc;
+    }
+    .td_tdn_podcast_01 div.art_branch_01 a {
+        border-bottom: none;
     }
 }
