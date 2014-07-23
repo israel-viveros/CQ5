@@ -9,7 +9,7 @@
 	/** Pleca Title **/
 	.wdg_top03_01 .wdg_top03_01_title {
 		width: 100%;
-		border-bottom: 1px solid #CCC;
+		border: none;
 		zoom: 1;
 	}
 	.wdg_top03_01 .wdg_top03_01_title:before,
@@ -45,8 +45,16 @@
 		height:214px;
 		
 	}
+	.wdg_top03_01 .wdg_carousa:after {
+		content: " ";
+		border-bottom: 1px solid #ccc;
+		width: 100%;
+		position: absolute;
+		height: 1px;
+	}
 	.wdg_top03_01 .wdg_top03_01_title {
 		width: 100%;
+		border-bottom: 1px solid #ccc;
 	}
 	
 	.wdg_top03_01 .wdg_top03_01_title ul {
@@ -239,7 +247,7 @@
     /*.wdg_top03_01 .microfiche-bullet,*/
    
 	.wdg_top03_01 .bullets{
-        border-top: 1px solid #ccc;
+        border-top: none;
         clear: both;
         overflow: hidden;
         margin:18px 0 7px 0;
@@ -262,8 +270,8 @@
     	background-color: #A70A0B !important;
     }
     .wdg_top03_01 .microfiche-screen{
-    	border-bottom: 1px solid #ccc;
 		padding-bottom: 24px;
+		border: none;
     }
     .wdg_top03_01 .microfiche-controls{
     	right: 2px;
