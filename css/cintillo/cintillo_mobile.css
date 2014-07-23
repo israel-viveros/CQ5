@@ -1,0 +1,15 @@
+@media screen and (max-width: 623px){
+
+    .cintillo-cobertura-especial{
+        width:auto;
+        margin: 0 auto;
+        overflow: hidden;
+        margin-bottom: 12px;    
+    }
+    .cintillo-cobertura-especial img{
+        width: auto;
+        max-width: 100%;
+        display: block;
+    }
+
+}

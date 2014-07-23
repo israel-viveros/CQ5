@@ -1,0 +1,12 @@
+@media screen and (min-width: 39em){
+
+    .cintillo-cobertura-especial{
+        width: 100%;
+		/*margin-bottom: 12px;*/
+        }
+
+	.cintillo-cobertura-especial img{
+            display:block;
+    }
+}
+

@@ -1,0 +1,10 @@
+@media screen and (min-width: 39em){
+
+    .cintillo-cobertura-especial img{
+     	/* width: 100%; */
+		display: block;
+    }
+    .cintillo-cobertura-especial{
+        overflow: hidden;
+    }
+}
