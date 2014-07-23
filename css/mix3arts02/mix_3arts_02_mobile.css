@@ -1,0 +1,34 @@
+@media screen{  
+    .mix_3arts_02{
+		clear: both;
+		margin-bottom: 12px;
+    }
+	.mix_3arts_02 .mix_1arts_09 .mix_1arts_09_thumb li img {
+		/*margin: 0 10px 0 0;*/
+	}
+	div.mix_3arts_02  div.mix_3arts_02_first{
+        margin-top: 12px;
+    }
+    .mix_1arts_09 .mix_1arts_09_thumb li a p{
+    	font-weight: bold;
+    }
+}
+
+
+@media screen and (max-width:623px){ 
+.mix_3arts_02{
+		clear: both;
+		margin-bottom: 12px;
+        height:201px;    
+    }
+
+
+   .mix_3arts_02 {
+        clear: both;
+        margin-bottom: 0;
+        height: auto;
+        max-height: 213px;
+        overflow: hidden;
+    }
+
+}
