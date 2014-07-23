@@ -31,4 +31,8 @@
         overflow: hidden;
     }
 
+    .mix_3arts_02 .mix_3arts_02_last{
+        display: none;
+    }
+
 }

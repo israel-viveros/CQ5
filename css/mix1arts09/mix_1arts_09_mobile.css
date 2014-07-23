@@ -122,7 +122,7 @@
 	.mix_1arts_09 {
 		background-color: transparent;
 		margin: 0;
-		padding: 19px 12px 20px 32px;
+		padding: 0px 20px 10px;
 		border-top: 1px solid #CCC;
 	}
 	.mix_1arts_09 .mix_1arts_09_thumb li a strong.category, .mix_1arts_09 .mix_1arts_09_thumb li a span.category {
@@ -153,7 +153,6 @@
         padding-left: 0;
         width: 85%;
         font-weight: bold;
-        height: 36px;
         max-height: 38px;
     }
     
