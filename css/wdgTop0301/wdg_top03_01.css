@@ -18,4 +18,9 @@
 		display: none;
 	}
 	/* END: Global (Large) */
+	.wdg_top03_01 .wdg_carousa div ul li.dotted-left{
+        width: 1px;
+        height: 15px;
+        margin-top: 8px;
+    }
 }
