@@ -35,6 +35,7 @@
     }
     .cintillo-cobertura-especial img{
 		width: auto!important;
+		max-width: none!important;
 	}
 
 }
