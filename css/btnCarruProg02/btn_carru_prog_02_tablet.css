@@ -8,4 +8,7 @@
         border-right:0;
 		width:300px;
     }
+    .btn_carru_prog_02 .typecarruse > div.title{
+    	margin-bottom: 24px;
+    }
 }

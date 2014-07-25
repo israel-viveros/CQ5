@@ -69,8 +69,13 @@
 		margin-bottom:36px
 	}
 	.btn_carru_prog_02 .typecarruse > div.title{
-		display:none;
+		display:block;
+        border-bottom: 1px solid #CCC;
+        height: 1px;
 	}
+    .btn_carru_prog_02 .typecarruse > div.title .flechas{
+        display: none;
+    }
 	.btn_carru_prog_02 .owl-wrapper-outer{
 		height:120px
 	}

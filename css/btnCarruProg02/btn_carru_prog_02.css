@@ -19,6 +19,7 @@
     }
 	.btn_carru_prog_02 .typecarruse > div.title{
 		display:block;
+        height: auto;
 	}
 
 	/* CAMBIO A COBERTURA TDN Y TDW */
@@ -33,5 +34,11 @@
     }
     .btnCarruProg03 .btn_carru_prog_02 .typecarruse div ul li:last-child {
         background: url(../../../templates/img/dotted-vertical.png) repeat-y 0 0;
+    }
+    .btn_carru_prog_02 .typecarruse > div.title .flechas{
+        display: block;
+    }
+    .btn_carru_prog_02 .typecarruse > div.title{
+        margin-bottom: 24px;
     }
 }
