@@ -1,0 +1,37 @@
+@media screen and (min-width: 948px){
+    .btn_carru_prog_02  .carrusel{
+		width: 954px;
+        overflow:hidden;
+	}
+	.btn_carru_prog_02 .pleca{
+        clear: both;
+        position: relative;
+        z-index: 10;
+        width: 880px;
+        float: left;
+
+	}
+	.btn_carru_prog_02 .owl-controls{
+		display:none !important;
+	}
+    .btn_carru_prog_02 .typecarruse .title i.inactive {
+    	color: #BABABA;
+    }
+	.btn_carru_prog_02 .typecarruse > div.title{
+		display:block;
+	}
+
+	/* CAMBIO A COBERTURA TDN Y TDW */
+
+	.btnCarruProg03 .btn_carru_prog_02 ul.flechas {
+        width: 60px;
+        float: right;
+    }
+    .btnCarruProg03 .btn_carru_prog_02 .flechas li {
+        width: 30px;
+        float: left;
+    }
+    .btnCarruProg03 .btn_carru_prog_02 .typecarruse div ul li:last-child {
+        background: url(../../../templates/img/dotted-vertical.png) repeat-y 0 0;
+    }
+}

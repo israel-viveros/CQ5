@@ -1,0 +1,106 @@
+@media screen{
+    .owl-wrapper-outer{
+		overflow:hidden;
+	}
+    div .itemCob > div{
+        float:left;
+        width:311px;
+        height:120px;
+        margin-right:12px;
+        overflow:hidden;
+        border-right:1px solid #cccccc;
+	}
+
+    div .itemCob > div:nth-child(3){
+		margin-right:0;
+        border-right:0;
+		width:300px;
+    }
+	div.itemCob .bg{ 
+    	background-color: #A70A0B;
+        opacity: 0.7;
+        filter: alpha(opacity = 70);
+        width: 200px;
+        height: 120px;
+        display: block;
+        position: absolute;
+        z-index: 2;
+    }
+	div.itemCob .text_prin{
+		position:absolute;
+		z-index: 8;
+        padding-left: 26px;
+        width: 150px;
+        display: block;
+        top: 16px;
+    }
+    div.itemCob .text_prin .title{
+        font-style: italic;
+        color: #ffffff !important;
+        font-size: 22px;
+        line-height: 23px;
+		padding: 0;
+		display: block;
+		font-weight: 100;
+		font-family: Trebuchet Ms;
+		font-size: 22px;
+		line-height: 23px;
+		height: 49px;
+		overflow: hidden;
+		margin-bottom: 0;
+    }
+	div.itemCob .text_prin .line{
+    	width: 20px;
+        height: 1px;
+        border-bottom: 1px solid #FFF;
+        margin: 5px 0 10px 0;
+    }
+	div.itemCob .text_prin .desc{
+        font-style: italic;
+        color: #FFF;
+        font-size: 12px;
+        font-weight: bold;
+        padding-bottom: 4px;
+    }
+ 	.btn_carru_prog_02  .carrusel{
+		margin: 10px auto 0 auto;
+	}
+	.btn_carru_prog_02{
+		margin-bottom:36px
+	}
+	.btn_carru_prog_02 .typecarruse > div.title{
+		display:none;
+	}
+	.btn_carru_prog_02 .owl-wrapper-outer{
+		height:120px
+	}
+	.owl-theme .owl-controls .owl-page.active span{
+		background:#A70A0B !important;
+	}
+	.btn_carru_prog_02  .carrusel{
+		min-height:100px;
+	}
+	.btn_carru_prog_02 #loadCob{
+        position: absolute;
+        margin-top: 30px;
+        right: 50%;
+        z-index: 99;
+    }
+    .btn_carru_prog_02 div.itemCob:last-child > div:last-child{
+		margin-right: 0;
+		width: 300px;
+        border-right: 0;
+    }
+}
+@media screen and (max-width: 623px){
+    .btn_carru_prog_02  .carrusel{
+		width:300px;
+		margin: 0 auto;
+        overflow:hidden;
+	}
+	div .itemCob > div{
+		margin-right:0;
+        border-right:0;
+		width:300px;
+    }
+}

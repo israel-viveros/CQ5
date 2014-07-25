@@ -1,0 +1,11 @@
+@media screen and (min-width: 624px) and (max-width: 947px){
+     .btn_carru_prog_02  .carrusel{
+		width:624px;
+        overflow:hidden;
+	}
+	div .itemCob > div:nth-child(2){
+		margin-right:0;
+        border-right:0;
+		width:300px;
+    }
+}
