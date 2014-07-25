@@ -39,6 +39,7 @@ unused styles
     .wdg_top03_01 .wdg_carousa div:last-child ul {
         margin-top: 0;
         overflow: hidden;
+        width:100% !important;
     }
     .wdg_top03_01 .wdg_carousa div:last-child ul li div a img{
         padding: 0 12px 0 0px;
