@@ -1,0 +1,57 @@
+@media screen and (min-width: 624px){
+        .sprite.carouselArrowLeft {
+            background-position: -264px -61px!important; /*15 julio */
+            margin-top: 6px;
+        }
+        
+        .nav_paginator_01 .tvsa-double-caret-left.inactive {
+			color: #ccc;
+		}
+		.nav_paginator_01 .tvsa-double-caret-rigth.inactive {
+			color: #ccc;
+		}
+
+
+        .mix_12arts_02 .nav_paginator_01 ul {
+            padding-top: 12px!important;
+        }
+        .mix_12arts_02 .nav_paginator_01 ul li.dotted-right{
+            width: 38px!important;
+        }
+        .mix_12arts_02 .nav_paginator_01 ul li.dotted-right a{
+            width: 28px!important;
+        }
+        .mix_12arts_02 .nav_paginator_01 ul li{
+            width: 20px!important;
+        }
+        
+        .mix_12arts_02 .nav_paginator_01 ul li a{
+            font-size: 14px!important;
+        }
+        .mix_12arts_02 .nav_paginator_01 ul li .selected {
+            font-size: 14px!important;
+            font-weight: bold!important;
+        }
+        .mix_12arts_02 .nav_paginator_01 ul li a{
+            height: 18px!important;
+            line-height: 
+            18px!important;
+        }
+        
+        .mix_12arts_02 .nav_paginator_01 ul li.dotted-left{
+            width: 20px!important;
+            margin-left: 12px;
+            margin-right:12px;
+        }
+        .mix_12arts_02 .nav_paginator_01 ul li.dotted-left a{
+            width: 34px!important;
+        }
+        .mix_12arts_02 .nav_paginator_01 ul li a  i {
+            font-size: 16px;
+        }
+        .mix_12arts_02 .nav_paginator_01 ul li.dotted-left  a i {
+            padding: 0 12px 0 0;
+        }
+
+
+}

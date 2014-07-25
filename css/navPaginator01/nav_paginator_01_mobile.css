@@ -1,0 +1,82 @@
+@media screen{
+	
+/*Paginacion*/
+.nav_paginator_01{
+    border-top: none;
+    clear: both;
+	overflow: hidden;
+	text-align:right;
+	width:100%;
+}
+
+.nav_paginator_01 ul {
+padding-top: 20px;
+}
+
+.nav_paginator_01 ul li{
+    border: none;
+	display: inline-block;
+	font-style: italic;
+}
+.nav_paginator_01 ul li.dotted-right{
+	margin-right: 5px;
+}
+.nav_paginator_01 ul li.dotted-left{
+	margin-left: 5px;
+}
+.nav_paginator_01 ul li a{
+    font-size: 10pt;
+    font-weight: bold !important;
+    padding: 0 5px 0 6px;
+    line-height: 0;
+    height: 10px;
+    display: inline-block;
+}
+
+.nav_paginator_01 ul li a i {
+	padding:0 8px;
+	
+}
+
+.ie7 .nav_paginator_01 ul li.nav2{
+    width: 15px;
+}
+.nav_paginator_01 ul li.nav1 {
+	background: url(../../../templates/base/img/dotted-vertical.png) repeat-y right !important;
+	margin-right: 6px;
+	padding-right: 6px;
+}
+.nav_paginator_01 ul li.nav2 {
+	background: url(../../../templates/base/img/dotted-vertical.png) repeat-y left !important;
+	padding: 0 6px;
+	margin-left: 6px;
+}
+
+.nav_paginator_01 ul li .selected{
+    color:#A70A0B;
+    font-size: 10pt;
+}
+.nav_paginator_01 ul li.dotted-left{
+	margin-right: 2px;
+}
+.nav_paginator_01 ul li.dotted-left a{
+    padding: 0;
+    font-size: 13pt;
+    margin-right: -15px;
+    padding-left: 6px;
+}
+	.nav_paginator_01 ul li.dotted-right a{
+	    font-size: 13pt;
+	}
+	.nav_paginator_01 ul li.suspension_points{
+	    margin: -7px;
+	}
+	.nav_paginator_01 .tvsa-double-caret-left.inactive {
+		color: #ccc;
+	}
+	.nav_paginator_01 .tvsa-double-caret-rigth.inactive {
+		color: #ccc;
+	}
+
+}
+
