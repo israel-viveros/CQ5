@@ -11,7 +11,7 @@
         overflow: hidden;
     }
     .mix_1arts_09 .mix_1arts_09_thumb li {
-		overflow: hidden;
+        overflow: hidden;
         border: 0;
         padding: 0 13px 5px;
         float: left;
@@ -20,23 +20,23 @@
         height: 206px;
 
     }
-	.mix_1arts_09 .mix_1arts_09_thumb li .lineseparator{
-		display: none;
-	}
-	.mix_1arts_09 .mix_1arts_09_thumb li .imgWrapper{
+    .mix_1arts_09 .mix_1arts_09_thumb li .lineseparator{
+        display: none;
+    }
+    .mix_1arts_09 .mix_1arts_09_thumb li .imgWrapper{
         width: 100%;
         height: auto;
         overflow: hidden;
         text-align: center;
         float: none;
         display: inline-block;
-	}
+    }
     .mix_1arts_09 .mix_1arts_09_thumb li img {
         display: block;
-		/* margin-bottom: 10px; */
-		width: 100%;
-		height: auto;
-		margin-left: 0;
+        /* margin-bottom: 10px; */
+        width: 100%;
+        height: auto;
+        margin-left: 0;
     }
     .mix_1arts_09 .mix_1arts_09_thumb li a {
         padding: 0;
