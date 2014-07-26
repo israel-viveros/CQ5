@@ -1855,7 +1855,7 @@
 		height: 31px;
 		float: right;
 		width: 100%;
-    	border-bottom: 0px;
+    	border-bottom: none;
 	}
 	.wdg_positions_01 .liga {
 		padding: 6px 0;
@@ -1868,7 +1868,6 @@
 		width: 93px;
 		font-style: italic;
 		font-size: 14px;
-    	display:none;
 	}
 	.wdg_positions_01 .ver_todos_tablet .sin_base a {
 		border-bottom: none;
