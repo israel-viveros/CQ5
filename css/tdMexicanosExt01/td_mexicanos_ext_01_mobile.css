@@ -30,12 +30,10 @@
 	}
 
 	/*Estilos para Banners*/
-	.td_mexicanos_ext_01 .c1_1{		
-        height: 115px;
-     }
+	
     .td_mexicanos_ext_01 .publicidad1{
 		background-color: #ccc;
-        height: 90px;
+        height: 50px;
         max-width: 728px;
 	    width: 728px;
         float: left;

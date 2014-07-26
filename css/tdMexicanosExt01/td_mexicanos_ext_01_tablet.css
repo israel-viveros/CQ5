@@ -4,6 +4,12 @@
         width: 624px;
         margin:auto;
     }
+    .td_mexicanos_ext_01 header.header1{
+    	margin-bottom: 24px;
+    }
+    .td_mexicanos_ext_01 .publicidad1{
+    	height: 90px;
+    }
 	
 	/*Todos los divs contenedores primarios se hacen al 100%*/
 	.td_mexicanos_ext_01 .main .c1,
