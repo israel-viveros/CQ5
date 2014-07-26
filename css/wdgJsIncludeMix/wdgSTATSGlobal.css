@@ -7680,7 +7680,7 @@
     .btn_6prog_06 .type1a .carrusel ul {
         float: none;
         margin: 0;
-        margin-top: 12px;
+        /*margin-top: 12px; */
         width: 16000px;
         height: 170px;
     }
