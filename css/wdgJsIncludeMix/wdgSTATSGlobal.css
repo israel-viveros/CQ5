@@ -7606,10 +7606,14 @@
         
     }
 }
+@media screen and (max-width: 624px){
+	.btn_6prog_06{
+		margin-bottom: 16px!important;
+	}
+}
 
 @media screen {
     .btn_6prog_06{
-        margin-bottom: 16px;
         overflow: hidden;
     }
     .btn_6prog_06 .type1a {
