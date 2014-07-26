@@ -81,6 +81,10 @@
 
 	.ie8 div.img_galry_01 span.data {display:none;}
 	.img_galry_01 .microfiche-controls{display:none}
+
+	h4 a.art_related_01_black:hover {
+		text-decoration: underline;
+	}
 	
 }
 

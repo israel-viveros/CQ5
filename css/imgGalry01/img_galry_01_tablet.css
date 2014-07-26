@@ -5,8 +5,8 @@
        margin-bottom: 34px;
    }
    div.img_galry_01 a.album span.description span.topic{
-		display:none;
-	}
+    display:none;
+  }
 
    
    div.img_galry_01 .image-container{
@@ -28,7 +28,10 @@
        width: 625px;
    }
 
-   
+   div.img_galry_01 a.album span.description span.title:hover {
+  text-decoration: underline;
+  }
+
    a [class^="tvsa-"],a [class*=" tvsa-"] {
 display:inline-block;
      }
@@ -449,9 +452,9 @@ div.img_galry_01  a.album.active:hover span.overlay i {
 
    div.img_galry_01 div.image-container .controls {
       position: absolute;
-			left: 24px;
-			bottom: 80px !important;
-			display: block !important;
+      left: 24px;
+      bottom: 80px !important;
+      display: block !important;
 
    }
 
@@ -553,8 +556,8 @@ div.img_galry_01 #img_galry_01_txts {
        margin-bottom: 15px;
    } 
 .img_galry_01 .microfiche-controls{display:none}
-	div.img_galry_01 div.image-container img{
-		position:absolute;
-    	z-index:-1;
-	}
+  div.img_galry_01 div.image-container img{
+    position:absolute;
+      z-index:-1;
+  }
 }
