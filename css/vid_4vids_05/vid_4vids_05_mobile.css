@@ -2,7 +2,7 @@
 	div.vid_4vids_05 .carruselcontainer span.overlay {display:none;}
 	div.vid_4vids_05 {
 		position: relative;
-		margin-bottom: 12px;
+		margin-bottom: 36px;
 	}
     div.vid_4vids_05 div.image-container {border:2px solid red;}
     div.vid_4vids_05 div.arrowLeft,
@@ -42,7 +42,7 @@
 		display: block;
 		margin: 0 0 0 89px;
 		padding: 12px;
-		max-width: 68%;
+		max-width: 63%;
 		vertical-align: middle;
 		font-size: 14px;
 		font-weight: bold;
