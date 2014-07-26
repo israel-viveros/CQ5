@@ -28,5 +28,7 @@
     .mix_3arts_02 .mix_3arts_02_last{
         display: none;
     }
-
+    div.mix_3arts_02 div.mix_3arts_02_first{
+        margin-top: 5px;
+    }
 }
