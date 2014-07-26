@@ -4214,7 +4214,7 @@
 		color: #8F8F8F;
 		font-size: 17px;
 		font-weight: bolder !important;
-		padding: 0 23px;
+		padding: 0 3.62%;
 	}
 
 	/*  colores de hover */
@@ -4250,7 +4250,7 @@
 		width: 624px;
 	}
 	.wdg_concacaf_f1_01 .titulo {
-		font-size: 21px;
+		font-size: 20px;
 		border-bottom: 1px solid #CCC;
 		padding-bottom: 7px;
 		margin-bottom: 21px;
@@ -5158,7 +5158,7 @@
 	}
 	.wdg_hexagonal_estadistics_01 .line_right_dashed {
 		border-right: 0;
-		background: url(../img/dotted-vertical.png) repeat-y 100% 0;
+		background: url(../../../img/dotted-vertical.png) repeat-y 100% 0;
 	}
 	.wdg_hexagonal_estadistics_01 .espaciadoSimple>.resultado {
 		color: #888;
@@ -5635,6 +5635,9 @@
 	}
 	.wdg_hexagonal_estadistics_01 .title {
 		margin-bottom: 20px;
+        font-size: 20px;
+        font-weight: normal;
+        border-bottom: 1px solid #ccc;
 	}
 	.wdg_hexagonal_estadistics_01 .title .textcolor-title1 {
 		font-size: 18px;
