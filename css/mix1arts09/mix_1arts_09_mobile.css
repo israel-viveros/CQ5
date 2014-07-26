@@ -124,6 +124,7 @@
         margin: 0;
         padding: 0px 20px 15px; /* cambio Israel */
         border-top: 1px solid #CCC;
+        height: 56px;
     }
     .mix_1arts_09 .mix_1arts_09_thumb li a strong.category, .mix_1arts_09 .mix_1arts_09_thumb li a span.category {
         display: block;
