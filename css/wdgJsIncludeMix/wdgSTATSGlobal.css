@@ -212,7 +212,7 @@
 	.mix_smex_dt_01 .left_div {
 		width: 192px;
 		height: 128px;
-		padding-right: 22px;
+		/*padding-right: 22px;*/
 		float: left;
 		height: auto;
 		position: relative;
@@ -1648,6 +1648,7 @@
 	}
 	.wdg_positions_01 table {
 		border-spacing: 0px;
+    	border-bottom: 1px solid #ccc;
 		width: 100%;
 	}
 	.ie7 .wdg_positions_01 table {
@@ -1714,6 +1715,7 @@
 	}
 	.wdg_positions_01 div.str_pleca_01 {
 		margin-bottom: 5px;
+    	border-bottom: 1px solid #ccc;
 	}
 	/*Para el carousel*/
 	.wdg_positions_01 .carousel_nav {
@@ -1792,7 +1794,7 @@
 		line-height: 26px;
 		position: absolute;
 		width: 100%;
-		padding-left: 14px;
+		padding-left: 24px;
 	}
 	.ie7 .wdg_positions_01 .boton {
 		position: relative;
@@ -1853,6 +1855,7 @@
 		height: 31px;
 		float: right;
 		width: 100%;
+    	border-bottom: 0px;
 	}
 	.wdg_positions_01 .liga {
 		padding: 6px 0;
@@ -1865,6 +1868,7 @@
 		width: 93px;
 		font-style: italic;
 		font-size: 14px;
+    	display:none;
 	}
 	.wdg_positions_01 .ver_todos_tablet .sin_base a {
 		border-bottom: none;
@@ -1880,6 +1884,19 @@
 	.wdg_positions_01 .degradado {
 		top: -12px;
 		width: 300px;
+	}
+	.wdg_positions_01 .titulo tbody tr th{
+		width:20px;		
+		padding:0px;
+	}
+
+	.wdg_positions_01 .titulo tbody tr .izq{
+		width:30px;
+	}
+	
+	.wdg_positions_01 .titulo tbody tr .team1{
+		width:68px;		
+		padding:0px 6px 0 3px;
 	}
 }
 
@@ -4198,7 +4215,7 @@
 		color: #8F8F8F;
 		font-size: 17px;
 		font-weight: bolder !important;
-		padding: 0 30px;
+		padding: 0 23px;
 	}
 
 	/*  colores de hover */
@@ -4258,7 +4275,7 @@
 		text-align: center;
 	}
 	.wdg_concacaf_f1_01 .filax .celda {
-		background: url(../img/dotted-vertical.png) repeat-y right;
+		background: url(../../../img/dotted-vertical.png) repeat-y right;
 	}
 	.wdg_concacaf_f1_01 .filax .last {
 		background: none;
@@ -4277,11 +4294,11 @@
 		padding-left: 10px;
 	}
 	.wdg_concacaf_f1_01  .border {
-		background: url(../img/dotted-vertical.png) repeat-y 100% 0;
+		background: url(../../../img/dotted-vertical.png) repeat-y 100% 0;
 	}
 	.wdg_concacaf_f1_01 .scores .divisor {
 		border: 0;
-		background: url(../img/dotted-horizontal.png) repeat-x 0 0;
+		background: url(../../../img/dotted-horizontal.png) repeat-x 0 0;
 		height: 1px;
 		line-height: 0px;
 		font-size: 0;
@@ -4309,7 +4326,7 @@
 	}
 	.wdg_concacaf_f1_01 .pais {
 		float: left;
-		background: url(../img/dotted-vertical.png) repeat-y 0 0;
+		background: url(../../../img/dotted-vertical.png) repeat-y 0 0;
 		padding: 5px;
 		margin-top: 25px;
 		padding-left: 17px;
