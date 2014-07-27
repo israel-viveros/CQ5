@@ -356,4 +356,7 @@
     .mix_carru_01 .type2b2_01 .articleBigModule_01 .galleryThumbs {
         display:none;
     }
+    .mix_carru_01{
+        background-color: #f5f5f5;
+    }
 }
