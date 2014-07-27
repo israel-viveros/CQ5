@@ -45,9 +45,9 @@
     .art_title_03 .art_title_03_texto p{
         line-height: 18px;  
         font-size: 16px;  
-        height: 60px;  
-        width: 100%;  
-        overflow: visible;  
+        height: 57px;  
+        width: 90%;  
+        overflow: hidden;  
         margin-left: 0px;  
         color: #8f8f8f !important;
     }
