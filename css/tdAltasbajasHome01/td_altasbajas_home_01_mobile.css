@@ -1,64 +1,64 @@
 @media screen and (max-width: 623px){ 
     /* Encabezado */ 
     .td_altasbajas_home_01 .header01{
-		margin-bottom:0px !important;
+        margin-bottom:0px !important;
     }
     /*Wrap*/
     .td_altasbajas_home_01 .main{
         width: 100%;
-		position:relative;
+        position:relative;
     }
     /*Todos los divs contenedores primarios se hacen al 100%*/
-	.td_altasbajas_home_01 .main > div{
-		/*clear:both;*/
-	}
-	/*Tama�o 100%*/
-	.td_altasbajas_home_01 .main .c5_1{
-		width: 100%;
-	}
-	.td_altasbajas_home_01 .main .banner_mobile{
-		text-align: center;
-		display: block;
-		margin-top: 5px;
-	}
-	.td_altasbajas_home_01 .main .c9 {
-		clear:both;
-	}
-	.td_altasbajas_home_01 .main .c2 .c2_1,
-	.td_altasbajas_home_01 .main .c3 .c3_1,
-	.td_altasbajas_home_01 .main .c3b .c3_3{
-		width: 100%;
-	}
-	.td_altasbajas_home_01 .c1_0{
-		display:block;
-		text-align: center;
-		margin-bottom:7px;
-	}
-	.td_altasbajas_home_01 .top_space{
-		margin-bottom:6px !important;
-	}
+    .td_altasbajas_home_01 .main > div{
+        /*clear:both;*/
+    }
+    /*Tama�o 100%*/
+    .td_altasbajas_home_01 .main .c5_1{
+        width: 100%;
+    }
+    .td_altasbajas_home_01 .main .banner_mobile{
+        text-align: center;
+        display: block;
+        margin-top: 5px;
+    }
+    .td_altasbajas_home_01 .main .c9 {
+        clear:both;
+    }
+    .td_altasbajas_home_01 .main .c2 .c2_1,
+    .td_altasbajas_home_01 .main .c3 .c3_1,
+    .td_altasbajas_home_01 .main .c3b .c3_3{
+        width: 100%;
+    }
+    .td_altasbajas_home_01 .c1_0{
+        display:block;
+        text-align: center;
+        margin-bottom:7px;
+    }
+    .td_altasbajas_home_01 .top_space{
+        margin-bottom:6px !important;
+    }
 }
-	/*Estilos para Banners*/
-	.td_altasbajas_home_01 .c1_1{		
+    /*Estilos para Banners*/
+    .td_altasbajas_home_01 .c1_1{       
         height: 115px;
      }
     .td_altasbajas_home_01 .publicidad1{
-		background-color: #ccc;
+        background-color: #ccc;
         height: 90px;
         max-width: 320px;
-	    width: 100%;
+        width: 100%;
         float: none !important;
-    	overflow: hidden;
-    	height:50px;
-    	margin:0 auto !important;
+        overflow: hidden;
+        height:50px;
+        margin:0 auto !important;
      }
-	.td_altasbajas_home_01 .publicidad2{
+    .td_altasbajas_home_01 .publicidad2{
         height: 90px;
         max-width: 200px;
-	    width: 200px;
+        width: 200px;
         float: right;
-	 	background-color: #ccc;
-    	overflow: hidden;
+        background-color: #ccc;
+        overflow: hidden;
      }
 
     .td_altasbajas_home_01 .publicidad3{
@@ -68,16 +68,16 @@
         max-width: 955px;
         height: 90px;
         background-color: #ccc;
-    	overflow: hidden;
+        overflow: hidden;
      }
-	.td_altasbajas_home_01 .publicidad4{
+    .td_altasbajas_home_01 .publicidad4{
         margin: auto;
         float: left;
         width: 100%;
         max-width: 955px;
         height: 90px;
         background-color: #ccc;
-    	overflow: hidden;
+        overflow: hidden;
      }
     .td_altasbajas_home_01 .publicidad5{
         margin: auto;
@@ -85,7 +85,7 @@
         max-width: 300px;
         height: 100px;
         background-color: #ccc;
-    	overflow: hidden;
+        overflow: hidden;
      }
     .td_altasbajas_home_01 .publicidad6{
         margin: auto;
@@ -93,5 +93,5 @@
         max-width: 300px;
         height: 250px;
         background-color: #ccc;
-    	overflow: hidden;
+        overflow: hidden;
      }
