@@ -111,4 +111,13 @@
     }
 }
 
+@media screen and (max-width: 624px){
+    .mix_1arts_07{
+        padding: 20px 0 10px;
+    }
+    .mix_1arts_07 ul li a .icon{
+        top: 20%;
+    }
+}
+
 
