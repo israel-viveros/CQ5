@@ -1,5 +1,7 @@
 @media screen and (min-width: 624px){
-   
+   div.art_branch_01 a{
+   	padding-top: 0!important
+   }
     /*Wrap*/
     .td_altasbajas_home_01 .main{
         width: 624px;
