@@ -1,4 +1,7 @@
-@media screen and (max-width: 623px){ 
+@media screen and (max-width: 623px){
+.mix_8arts_01 .cont-left:nth-child(2){
+    display: none;
+} 
     /* Encabezado */ 
     .td_altasbajas_home_01 .header01{
         margin-bottom:0px !important;
