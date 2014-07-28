@@ -351,6 +351,9 @@
 
 }
 @media screen and (max-width: 623px){
+	.centro{
+		padding-left: 0;
+	}
     .wdg_comen_01 .wdg_comen_01_form,.wdg_comen_01 .nav_paginator_01 {
       display: block;
       width: 96%;
