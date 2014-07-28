@@ -1,0 +1,34 @@
+@media screen and (min-width: 60em){
+.title {
+	width: 100%;
+	height: 32px;	
+
+ }
+
+ .centro {
+	background: #a70a0b;
+	padding-left: 20px;
+	width: 47.7%;
+	height: 32px;
+
+}
+
+.fondoPlecaComentarios{
+    padding-top: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 0.85em;
+    background: #a70a0b;
+}
+
+.title  .fondoPlecaComentarios{
+padding-top: 5px; 
+    }
+
+    .title .fondoPlecaComentarios {
+    padding-top: 6px;
+    }
+
+}
