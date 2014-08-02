@@ -25,12 +25,13 @@ padding-top: 20px;
 	margin-left: 5px;
 }
 .nav_paginator_01 ul li a{
-    font-size: 10pt;
+    font-size: 14px;
     font-weight: bold !important;
     padding: 0 5px 0 6px;
     line-height: 0;
     height: 10px;
     display: inline-block;
+        cursor:pointer;
 }
 
 .nav_paginator_01 ul li a i {
@@ -44,17 +45,17 @@ padding-top: 20px;
 .nav_paginator_01 ul li.nav1 {
 	background: url(../../../templates/base/img/dotted-vertical.png) repeat-y right !important;
 	margin-right: 6px;
-	padding-right: 6px;
+	padding-right: 18px;
 }
 .nav_paginator_01 ul li.nav2 {
 	background: url(../../../templates/base/img/dotted-vertical.png) repeat-y left !important;
-	padding: 0 6px;
+	padding: 0 6px 0px 18px;
 	margin-left: 6px;
 }
 
 .nav_paginator_01 ul li .selected{
     color:#A70A0B;
-    font-size: 10pt;
+    font-size: 14px;
 }
 .nav_paginator_01 ul li.dotted-left{
 	margin-right: 2px;
