@@ -84,11 +84,7 @@
 	.mix_1arts_08 .articlesThumbList li a span.icon {
 		display: none;
 	}
-	.mix_1arts_08 div div.articleMedium div span a {
-		color: #D9A961;
-		font-style: italic;
-		padding-bottom: 8px;
-	}
+	
 	.mix_1arts_08 div .articleMedium div h2 {
 		padding: 0;
 		color: #000;
